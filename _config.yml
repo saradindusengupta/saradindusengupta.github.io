@@ -90,7 +90,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-version: v1.2.0
+
 # Collections
 collections:
   publications:
