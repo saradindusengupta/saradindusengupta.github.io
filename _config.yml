@@ -171,3 +171,5 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+theme: jekyll-theme-minimal
