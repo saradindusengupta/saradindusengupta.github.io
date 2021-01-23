@@ -15,9 +15,7 @@
       <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
     {% if site.author.stackoverflow %}
-      <li><a href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i class="fab fa-stackoverflow" aria-hidden="true"></i> Stack Overflow</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li><a href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i class="fab fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a></li>
   </ul>
 </div>
 
