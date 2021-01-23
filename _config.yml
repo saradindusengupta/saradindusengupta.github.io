@@ -33,11 +33,6 @@ footer-links:
   stackoverflow: users/4490518/saradindu-sengupta
 
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: saradindu_sengupta
-
-
 # Analytics
 # analytics:
 #  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
