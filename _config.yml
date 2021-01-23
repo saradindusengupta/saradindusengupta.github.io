@@ -11,7 +11,7 @@ title                    : "Saradindu Sengupta"
 title_separator          : "-"
 name                     : &name "Saradindu Sengupta"
 description              : &description "Data Nerd"
-url                      : https://saradindusengupta.github.io
+url                      : https://saradindusengupta.ml
 baseurl                  : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
