@@ -20,5 +20,9 @@
     
   </ul>
 </div>
-
+<div>
+  {% if site.url %}
+  <li><a href="{{ site.url}}/terms"><i class="fab fa-terms" aria-hidden="true"></i> Terms and Conditions</a></li>
+  {% endif %}
+</div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a></div>
