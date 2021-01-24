@@ -17,12 +17,9 @@
     {% if site.author.stackoverflow %}
       <li><a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i class="fab fa-stackoverflow" aria-hidden="true"></i> Stack OVerflow</a></li>
     {% endif %}
-    
+    {% if site.url %}
+      <li><a href="{{ site.url}}/terms"><i class="fab fa-terms" aria-hidden="true"></i> Terms and Conditions</a></li>
+    {% endif %}
   </ul>
-</div>
-<div>
-  {% if site.url %}
-  <li><a href="{{ site.url}}/terms"><i class="fab fa-terms" aria-hidden="true"></i> Terms and Conditions</a></li>
-  {% endif %}
 </div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a></div>
