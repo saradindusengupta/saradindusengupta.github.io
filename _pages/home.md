@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 published: true
 ---
-# About Me
+
 
