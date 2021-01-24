@@ -38,8 +38,8 @@ The best free custom domains can be acquired from [Freenom](https://www.freenom.
 |A|14400|185.199.109.153
 |A|14400|185.199.110.153
 |A|14400|185.199.111.153
-|A|14400|saradindusengupta.github.io 
-5. Add the domain name in your Github Pages repository settings option under `Custom Domain`. Enable HTTPS tick mark and Give 30 to 40 minutes to SSL certificates being assigned and distributes
+|CNAME|14400|saradindusengupta.github.io 
+5. Add the domain name in your Github Pages repository settings option under `Custom Domain`. Enable HTTPS tick mark and Give 30 to 40 minutes to SSL certificates being assigned and distributed. This will also create a `CNAME` file in root of the project directory.
    
 For in depth understanding and further trouble shooting follow the official docs at [Github Docs](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 # Changelog -- bugfixes and enhancements
