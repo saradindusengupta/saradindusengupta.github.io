@@ -7,8 +7,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-source `https://rubygems.org`
+# Happy Jekylling
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
