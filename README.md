@@ -1,6 +1,6 @@
 A Github Pages for Software Developers, Data Scientist and Researchers. This was forked from originally [Barry Clark](https://github.com/barryclark/jekyll-now) and then added themes and components from the [Academic Pages](https://github.com/academicpages/academicpages.github.io),  See LICENSE.md.
 
-In this version Travis CI is added for monitoring build issues and code scan is enabled for monitoring quality checks from PRs.
+In this version Travis CI is added for monitoring build issues and code scan is enabled for monitoring quality checks from PRs. The detailed guide on how to use this repository and understand the structure can be found [here](https://saradindusengupta.ml/guide).
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
