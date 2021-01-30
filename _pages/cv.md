@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Work Experiences
 ======
 * [**Nunam**](https://nunam.com), India `[Aug, 2019 - Present]`
@@ -38,7 +36,7 @@ Management Kerala** `[Sept, 2018 - Feb, 2019]`
 
 Education
 ======
-* **M.Sc** in Machine Intelligence, [Indian Institute of Information Technology and Management - Kerala](https://www.iiitmk.ac.in), 2018
+* **M.Sc** in Machine Intelligence, [Indian Institute of Information Technology and Management - Kerala](https://www.iiitmk.ac.in/), 2018
 * **B.Sc.** in Computer Science, APC College, 2016
 
   
