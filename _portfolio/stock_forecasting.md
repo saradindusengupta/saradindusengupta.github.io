@@ -1,6 +1,5 @@
 ---
 title: Stock market forecasting and trend analysis using technical indicators
-excerpt: Hybrid stock price forecasting model<br/><img src='/images/GitHub-dark.png'>"
 collection: portfolio
 ---
 **Repository**: [Github](https://github.com/saradindusengupta/stock-forecasting)

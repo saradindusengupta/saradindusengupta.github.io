@@ -1,6 +1,5 @@
 ---
 title: Early Epidemic Detection based on electronic medical records
-excerpt: Analyzing EMR data from multiple sources and using "metamap" to build inference model for cluster identification<br/><img src='/images/GitHub-dark.png'>"
 collection: portfolio
 ---
 **Repository**: [Github](https://github.com/saradindusengupta/Early_Epidemic_Detection)

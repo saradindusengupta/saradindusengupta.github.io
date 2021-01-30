@@ -1,6 +1,5 @@
 ---
 title: Data Quality and Integrity Check for time-series data sampled at higher frequency
-excerpt: Determining the quality and integrity of sensor data sampled at a higher frequency rate<br/><img src='/images/GitHub-dark.png'>"
 collection: portfolio
 ---
  

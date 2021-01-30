@@ -1,6 +1,5 @@
 ---
 title: RASA powered conversational Chatbot for CRM platform
-excerpt: Using rasa_nlu and rasa_core for building a production-ready conversational ai agent<br/><img src='/images/GitHub-dark.png'>"
 collection: portfolio
 ---
 **Repository**: [Github](https://github.com/saradindusengupta/RASA_powered_conversational-ai)
