@@ -38,7 +38,7 @@ Management Kerala** `[Sept, 2018 - Feb, 2019]`
 
 Education
 ======
-* **M.Sc** in Machine Intelligence, [Indian Institute of Information Technology and Management - Kerala](www.iiitmk.ac.in), 2018
+* **M.Sc** in Machine Intelligence, [Indian Institute of Information Technology and Management - Kerala](https://www.iiitmk.ac.in), 2018
 * **B.Sc.** in Computer Science, APC College, 2016
 
   
