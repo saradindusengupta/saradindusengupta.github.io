@@ -6,14 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+*To download a PDF version of the resume [click here](https://www.dropbox.com/s/kivb3s0gz2fiejf/SaradinduSengupta.pdf?dl=0)*
 
-Work Experiences
-======
+## Experiences
+
 * [**Nunam**](https://nunam.com), India `[Aug, 2019 - Present]`
   * Machine Learning Engineer
-  * Responsible for designing and developing real-time learning based system depending on business use-cases with a relatively small team.
+  * Responsible for designing and developing real-time learning based systems depending on business use-cases with a relatively small team.
     * Developed an end-to-end image-based text detection and identification system for product identification and segregation in an assembly line from product label images using region-based stroke width transformation.
     * Designed and build the initial product classification algorithm for identifying its second use cases where each item was classified and graded based on a certain number of parameters. Build a Li-ion battery forecasting system to estimate remaining useful life (RUL) and state of health (SoH).
+    * Implemented data pre-processing pipelines to augment effective data quality and integrity checks; database and data-flow schema design; setting up back-end services for exposing machine learning models over REST APIs and implemented model governance and monitoring framework to implement platform-wide MLOps practices.
 
 * [**Medical Image Processing and Signal Processing Lab**](https://www.iiitmk.ac.in/MedImagCompLab/), **Indian Institute of Information Technology &
 Management Kerala** `[Sept, 2018 - Feb, 2019]`
@@ -34,22 +36,22 @@ Management Kerala** `[Sept, 2018 - Feb, 2019]`
   * Developed data collection and data ingestion pipeline where open-sourced, web-scrapped data sets were to be cleaned, checked for data quality and bench-marked.
 
 
-Education
-======
+## Education
+
 * **M.Sc** in Machine Intelligence, [Indian Institute of Information Technology and Management - Kerala](https://www.iiitmk.ac.in/), 2018
 * **B.Sc.** in Computer Science, APC College, 2016
 
   
-Technical Skills
-======
-* Python , R Programming, CUDA C Programming, Go, 
-* PostgreSQL, Redis, Timescale DB, Cassandra, Power BI
-* Azure Cloud, Google Cloud Platform
-* Tensorflow, TF-X, Pytorch, OpenCV, Keras, scikit-learn, RASA
-* Apache Spark, Flask, Docker, Openshift, microk8, Kubeflow
+## Technical Skills
 
-Certifications
-===
+* Python , R Programming, Go
+* PostgreSQL, Redis, Timescale DB, Cassandra, Power BI
+* AWS, Google Cloud Platform
+* Tensorflow, TF-X, Pytorch, OpenCV, Keras, scikit-learn, RASA, openCV, pySpark, FastAI, FastAPI
+* Apache Spark Apache Kafka, Docker, minikube, Kubeflow
+
+## Certifications
+
 * Scrum Foundation Professional Certificate
 * Tensorflow Developer Certificate
 
